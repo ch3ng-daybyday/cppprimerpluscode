@@ -1,0 +1,7 @@
+Focal length of objective :1800mm
+Focal length of eyeiece maginification
+         0.0    -2147483648
+         0.0    -2147483648
+         0.0    -2147483648
+         0.0    -2147483648
+         0.0    -2147483648

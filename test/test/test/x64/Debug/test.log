@@ -1,0 +1,6 @@
+﻿  test.cpp
+E:\Desktop\demo\test\test\test.cpp(10,12): error C2065: “f2”: 未声明的标识符
+E:\Desktop\demo\test\test\test.cpp(11,16): error C2065: “f2”: 未声明的标识符
+E:\Desktop\demo\test\test\test.cpp(11,19): error C2065: “f3”: 未声明的标识符
+E:\Desktop\demo\test\test\test.cpp(12,55): error C2065: “f2”: 未声明的标识符
+E:\Desktop\demo\test\test\test.cpp(12,58): error C2065: “f3”: 未声明的标识符
