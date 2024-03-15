@@ -2,8 +2,8 @@
 // #include "9.1.coordin.h"
 // #include "9.1.coordin.h"
 // #include <cmath>
-// // #include "9.1.coordin.h"
-// // #include "test.h"
+// #include "9.1.coordin.h"
+// #include "test.h"
 // int main()
 // {
 //     using namespace std;

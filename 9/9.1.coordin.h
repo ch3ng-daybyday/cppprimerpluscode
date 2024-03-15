@@ -1,6 +1,6 @@
-// #pragma once;
-#ifndef COORDIN_H_
-#define COORDIN_H_
+#pragma once
+// #ifndef COORDIN_H_
+// #define COORDIN_H_
 // #pragma once
 struct polar
 {
@@ -14,4 +14,4 @@ struct rect
 };
 polar rect_to_polar(rect);
 void show_polar(polar);
-#endif
+// #endif
