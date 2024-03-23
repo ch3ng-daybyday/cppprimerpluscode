@@ -3,4 +3,7 @@
 注意事项：
 若源代码文件需包含头文件，请将 tasks.json文件中的"${file}" 修改为 "${fileDirname}\\*.cpp", 这样他才会编译当前文件夹下所有的cpp文件
 若只是单独允许源代码文件不包含头文件，请将 tasks.json文件中的"${fileDirname}\\*.cpp"修改为 "${file}" 
-           
+
+使用命令g++编译过程中，出现对 #pragma once 报错时，选择不要编译头文件
+
+stack 文件中模拟堆栈的操作，但是有一个问题，在vscode编译运行后，会发生Illegal instruction的错误，但是，在visual studio中则不会发生。
